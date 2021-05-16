@@ -1,2 +1,2 @@
-# JavaScipt
+# JavaScript
 JavaScript exercices
