@@ -26,3 +26,17 @@ console.log(+false);
 console.log(+null);
 
 
+/**
+ * Operations
+ * 
+ * + / - * % **
+ * 
+ */
+
+
+console.log(10 + 5);
+console.log(10 - 5);
+console.log(10 * 5);
+console.log(10 / 5);
+console.log(10 % 5);
+console.log(3 ** 3);
