@@ -11,3 +11,18 @@ let name = "Yahya";
 const PI = 3.14;
 
 
+/**
+ * Unary plus and minus
+ * + / -
+ * 
+ */
+
+console.log(+"100");
+console.log(+"Yahya");
+console.log(-"100");
+console.log(-"-100");
+console.log(+true);
+console.log(+false);
+console.log(+null);
+
+
