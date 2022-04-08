@@ -40,3 +40,20 @@ console.log(10 * 5);
 console.log(10 / 5);
 console.log(10 % 5);
 console.log(3 ** 3);
+
+
+/**
+ * Assignment operators
+ * 
+ * 
+ */
+
+let a = 10;
+
+a = a + 20;
+
+a -= 30;
+
+a += 50;
+
+console.log(a);
