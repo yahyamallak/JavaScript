@@ -57,3 +57,15 @@ a -= 30;
 a += 50;
 
 console.log(a);
+
+
+/**
+ * Syntactic sugar "_"
+ * 
+ * e
+ * 
+ */
+
+console.log(1_000_000);
+
+console.log(1e6);
