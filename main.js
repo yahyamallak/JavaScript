@@ -69,3 +69,14 @@ console.log(a);
 console.log(1_000_000);
 
 console.log(1e6);
+
+
+
+/**
+ * Number()
+ * 
+ * 
+ * 
+ */
+
+console.log(Number("100"));
