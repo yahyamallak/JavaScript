@@ -80,3 +80,17 @@ console.log(1e6);
  */
 
 console.log(Number("100"));
+
+
+
+/**
+ * for loop
+ * 
+ * 
+ */
+
+
+for(let i; i < 10; i++){
+    console.log(i);
+}
+
