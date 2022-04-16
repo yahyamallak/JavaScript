@@ -94,3 +94,17 @@ for(let i; i < 10; i++){
     console.log(i);
 }
 
+
+
+/**
+ * Nested for loop
+ * 
+ * 
+ */
+
+
+ for(let i; i < 10; i++){
+    for(let j; j < 10; j++){
+        console.log("A"+i+": "+j);
+    }
+}
